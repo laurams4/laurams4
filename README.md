@@ -1,5 +1,6 @@
-<h1 align="center">Hi there 👋, I'm Laura</h1>
-<h3 align="center">A passionate bioinformatician from Spain</h3>
+<h1 align="center">Hi there!👋, My name is Laura</h1>
+<h3 align="center">📊 I am currently expanding my knowledge and skills in the field of **bioinformatics** </h3>
+<h3 align="center">🌍 Based in **Spain**/h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
